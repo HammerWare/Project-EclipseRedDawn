@@ -8,7 +8,7 @@ from tkinter import *
 import update
 
 def Play(self):
-    subprocess.Popen([ update.Minecraft(), '--workDir', os.path.join(os.getcwd(),'eclipse Red Dawn') ],creationflags=0x00000010)
+    subprocess.Popen([ update.Minecraft(), '--workDir', os.path.join(os.getcwd(),'eclipseRD') ],creationflags=0x00000010)
 
 window = Tk()
 window.title('EclipseRedDawn')
