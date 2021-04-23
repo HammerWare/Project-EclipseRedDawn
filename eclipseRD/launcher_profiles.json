@@ -2,12 +2,12 @@
   "clientToken" : "",
   "launcherVersion" : {
     "format" : 21,
-    "name" : "Eclipse",
+    "name" : "EclipseRedDawn",
     "profilesFormat" : 2
   },
   "profiles" : {
     "1.12.2-forge" : {
-      "icon" : "Obsidian",
+      "icon" : "block:tnt",
       "javaArgs" : "-Xmx6G",
       "lastUsed" : "2020-06-25T19:44:50.820Z",
       "lastVersionId" : "1.12.2-forge",
